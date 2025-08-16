@@ -1,7 +1,5 @@
 package Milestone2B;
 
-import java.util.Scanner;
-
 class UserMainCode1 {
     public String userIdGeneration(String input1, String input2, int input3, int input4) {
         String smallerName, longerName;
